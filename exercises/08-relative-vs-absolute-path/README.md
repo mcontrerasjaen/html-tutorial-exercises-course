@@ -40,6 +40,8 @@ Absolute paths include the domain name. They contain the full URL because they a
 
 > Note: Make sure the image is still displaying correctly after you make your changes.
 
+3. Make sure the folder name "learn" starts with a dot like this ".learn", make sure to keep the dot.
+
 ## 💡 Hints:
 
 + Your absolute path should start with this:**{{publicUrl}}**
