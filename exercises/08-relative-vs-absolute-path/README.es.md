@@ -40,6 +40,8 @@ Las rutas absolutas incluyen también el nombre del dominio. Contienen la URL co
 
 > Nota: Asegúrate de que la imagen aún se muestre correctamente después de realizar los cambios.
 
+3. La carpeta "learn" empieza con un punto (.) de esta manera `.learn`, asegúrate de colocarlo.
+
 ## 💡 Pistas:
 
 + Tu ruta absoluta debe comenzar con esto: {{publicUrl}}
